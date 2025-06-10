@@ -1,0 +1,35 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.main{
+  width: 80%;
+  margin-inline: auto;
+}
+
+table {
+  margin: 20px;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+button{
+  margin: 3px;
+}
+
+
+.toast{
+  background-color: orange;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 30px;
+}
